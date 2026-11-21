@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.lucaslimao0254.calculadora",
+        "sha256_cert_fingerprints": ["7F:63:E4:CF:57:91:B3:95:9D:EF:FF:6E:96:2E:62:73:94:7F:DB:CA:1C:7F:FA:CE:79:C0:BA:FB:51:99:60:33"]
+      }
+    }]
